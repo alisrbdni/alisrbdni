@@ -39,7 +39,8 @@ Python • TypeScript • Java • AI Agents • LLMs • Computer Vision • ML
 
 ## 📊 GitHub Activity
 
-GitHub Contribution Graph
+![GitHub Contribution Graph](https://ghchart.rshah.org/YOUR_GITHUB_USERNAME)
+
 
 ---
 
