@@ -35,11 +35,6 @@ Python • TypeScript • Java • AI Agents • LLMs • Computer Vision • ML
 - Code Generation Systems
 - Intelligent Automation
 
----
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/alisrbdni)
 
 ---
 
